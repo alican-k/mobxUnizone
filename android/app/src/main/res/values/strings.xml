@@ -1,0 +1,5 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">nBpRtI4VPlcCtqpdj-zDiXeOeJSEV1Puc_u0f</string>
+    <string name="app_name">unizone</string>
+	<string name="facebook_app_id">1761490454181162</string>
+</resources>
